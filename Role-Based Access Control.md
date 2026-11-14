@@ -1,3 +1,4 @@
+
 Role-Based Access Control 
 
 # Objective
@@ -52,25 +53,20 @@ Built-in directory roles
 
 
 
+<img width="1427" height="540" alt="Role-page" src="https://github.com/user-attachments/assets/c82c3512-2d4e-443b-93b5-ae93bd74244a" />
+
+
+# ADD ASSIGNMENT
+
+<img width="1361" height="711" alt="Screenshot 2026-11-14 at 6 13 11 PM" src="https://github.com/user-attachments/assets/5dd949c1-fa63-4829-b7a8-1bdf8fafbe6e" />
+
+# ROLE SUCCESSFULLY ASSIGNED
+
+
+<img width="1331" height="677" alt="Screenshot 2026-11-14 at 6 14 49 PM" src="https://github.com/user-attachments/assets/f67542ab-6e46-42ee-9dad-59803af256d7" />
 
 
 
 
 
-
-# Role Selected - Application Administrator
-
-
-
-<img width="1197" height="331" alt="Screenshot 2026-11-14 at 4 55 21 PM" src="https://github.com/user-attachments/assets/d69409b6-8cf8-4a9a-b26a-4d10f18e346c" />
-
-
-
-
-
-
-# Role Successfully Assigned
-
-
-<img width="1209" height="543" alt="Active assignment" src="https://github.com/user-attachments/assets/c438df75-26c6-4173-95c7-bdde54aa2787" />
 
