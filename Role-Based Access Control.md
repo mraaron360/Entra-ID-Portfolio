@@ -50,7 +50,7 @@ Built-in directory roles
 # RBAC SCREENSHOTS
 
 
-<img width="1197" height="331" alt="Screenshot 2026-11-14 at 4 55 21 PM" src="https://github.com/user-attachments/assets/8be3e907-9aee-4af6-ae99-5a591d052c1c" />
+
 
 
 
