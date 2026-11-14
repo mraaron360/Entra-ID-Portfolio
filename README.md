@@ -40,3 +40,9 @@ Microsoft Entra ID (Azure AD)
 
 
 Microsoft Entra Admin Center
+
+
+
+
+
+<img width="1389" height="670" alt="user mgmt " src="https://github.com/user-attachments/assets/561109fe-f5fc-49d0-b6d7-fda1ebbe9627" />
