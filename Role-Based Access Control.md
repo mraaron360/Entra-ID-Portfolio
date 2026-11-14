@@ -42,21 +42,35 @@ Microsoft Entra ID (Azure AD)
 Built-in directory roles
 
 
-RBAC Screenshots
-
-
-Role Selected – Application Administrator
 
 
 
 
 
-
-Add Assignment Screen
-
+# RBAC SCREENSHOTS
 
 
+<img width="1197" height="331" alt="Screenshot 2026-11-14 at 4 55 21 PM" src="https://github.com/user-attachments/assets/8be3e907-9aee-4af6-ae99-5a591d052c1c" />
 
 
 
-Role Successfully Assigned
+
+
+
+
+# Role Selected - Application Administrator
+
+
+
+<img width="1197" height="331" alt="Screenshot 2026-11-14 at 4 55 21 PM" src="https://github.com/user-attachments/assets/d69409b6-8cf8-4a9a-b26a-4d10f18e346c" />
+
+
+
+
+
+
+# Role Successfully Assigned
+
+
+<img width="1209" height="543" alt="Active assignment" src="https://github.com/user-attachments/assets/c438df75-26c6-4173-95c7-bdde54aa2787" />
+
