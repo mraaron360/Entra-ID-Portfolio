@@ -1,1 +1,18 @@
 # Entra-ID-Portfolio
+
+Objective
+Demonstrate IAM user lifecycle management in Microsoft Entra ID.
+
+Actions Performed
+Created new cloud user
+Configured auto-generated password
+Verified user in directory
+Enabled account status
+Skills Demonstrated
+Identity lifecycle management
+Cloud user provisioning
+Entra ID administration
+Basic IAM operations
+Tools Used
+Microsoft Entra ID (Azure AD)
+Microsoft Entra Admin Center
