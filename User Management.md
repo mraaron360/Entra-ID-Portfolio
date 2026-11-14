@@ -18,7 +18,7 @@ Verified user in directory
 Enabled account status
 
 
-Skills Demonstrated
+# Skills Demonstrated
 
 
 Identity lifecycle management
@@ -33,8 +33,7 @@ Entra ID administration
 Basic IAM operations
 
 
-Tools Used
-
+# Tools Used
 
 Microsoft Entra ID (Azure AD)
 
