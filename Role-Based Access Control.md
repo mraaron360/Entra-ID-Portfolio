@@ -1,17 +1,17 @@
 Role-Based Access Control 
 
-Objective
+# Objective
 Demonstrate IAM role assignment and privilege management using Microsoft Entra ID built-in administrative roles.
 
 
 
-Scenario
+# Scenario
 A test IAM user requires elevated permissions to manage enterprise applications. Role-based access control is implemented to grant appropriate administrative rights.
 
 
 
 
-Actions Performed
+# Action Performed
 
 Navigated to Microsoft Entra ID → Roles and administrators
 
@@ -24,7 +24,7 @@ Verified successful role assignment
 
 
 
-Skills Demonstrated
+# Skills Demonstrated 
 
 Microsoft Entra ID RBAC
 
@@ -37,7 +37,7 @@ Access governance fundamentals
 
 
 
-Tools Used
+# Tools Used
 Microsoft Entra ID (Azure AD)
 Built-in directory roles
 
