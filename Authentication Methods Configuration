@@ -1,9 +1,11 @@
-Objective
+# Objective
+
 Configure and verify authentication methods in Microsoft Entra ID to support Multi-Factor Authentication (MFA) and strengthen tenant identity security.
 
 This lab demonstrates how administrators control which authentication methods users can register and use.
 
-Actions Performed
+
+# Action Performed
 
 
 
