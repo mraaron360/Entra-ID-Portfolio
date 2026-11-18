@@ -46,7 +46,7 @@ Use the search box instead:
 1. Click the search box **(1)** at the top of the portal and type `multifactor authentication registration policy`.
 2. Under **Services**, select **Multifactor Authentication Registration Policies (2)**.
 
-![Step 2b – Search for the policy](<img width="1427" height="540" alt="Role-page" src="https://github.com/user-attachments/assets/c82c3512-2d4e-443b-93b5-ae93bd74244a" />
+![Step 2b – Search for the policy]
 <img width="1352" height="693" alt="04-policy-overview" src="https://github.com/user-attachments/assets/59e1c745-41dc-495d-935c-7b2f56b2d59c" />
 
 
