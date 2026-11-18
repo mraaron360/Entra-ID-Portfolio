@@ -38,8 +38,7 @@ Every screenshot has **red numbered badges**. The number in the step text matche
 
 Microsoft's documentation describes the path as **Protection > Identity Protection > Multifactor authentication registration policy**. In the current portal the left menu looks different. Under **ID Protection (1)** you only see *Dashboard, Risk-based Conditional Access, Risky users, Risky workload identities* and *Risky agents*, so the policy is not listed there.
 
-![Step 2a – ID Protection menu]<img width="1352" height="693" alt="02-id-protection-menu" src="https://github.com/user-attachments/assets/0535fe22-e969-4880-a43e-8e7c786b5802" />
-
+![Step 2a – ID Protection menu
 
 Use the search box instead:
 
