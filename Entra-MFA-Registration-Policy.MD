@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/35028976/README.md)
 # Configure the Microsoft Entra ID MFA Registration Policy (Step-by-Step)
 
 A walkthrough of the **Multifactor authentication registration policy** in Microsoft Entra ID Protection (formerly Azure AD Identity Protection). The policy makes users register for Microsoft Entra multifactor authentication (MFA) so they can answer MFA prompts later.
@@ -134,10 +133,3 @@ Once the policy is enabled, Microsoft Entra ID Protection prompts users to regis
 
 Registration only gives users something to use for MFA. To actually **require** MFA at sign-in, pair this policy with a Conditional Access policy.
 
----
-
-## Related and references
-
-- [How to configure the multifactor authentication registration policy (Microsoft Learn)](https://learn.microsoft.com/entra/id-protection/howto-identity-protection-configure-mfa-policy)
-- [Protect security info registration with Conditional Access (Microsoft Learn)](https://learn.microsoft.com/entra/identity/conditional-access/policy-all-users-security-info-registration), a Conditional Access alternative using the *Register security information* user action
-- [Plan a Microsoft Entra multifactor authentication deployment (Microsoft Learn)](https://learn.microsoft.com/entra/identity/authentication/howto-mfa-getstarted)
