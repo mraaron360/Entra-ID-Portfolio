@@ -38,7 +38,8 @@ Every screenshot has **red numbered badges**. The number in the step text matche
 
 Microsoft's documentation describes the path as **Protection > Identity Protection > Multifactor authentication registration policy**. In the current portal the left menu looks different. Under **ID Protection (1)** you only see *Dashboard, Risk-based Conditional Access, Risky users, Risky workload identities* and *Risky agents*, so the policy is not listed there.
 
-![Step 2a – ID Protection menu
+![Step 2a – ID Protection menu]<img width="1352" height="693" alt="02-id-protection-menu" src="https://github.com/user-attachments/assets/0535fe22-e969-4880-a43e-8e7c786b5802" />
+
 
 Use the search box instead:
 
@@ -129,5 +130,3 @@ The **Save** button is only active after you change a setting. In this lab tenan
 Once the policy is enabled, Microsoft Entra ID Protection prompts users to register the next time they sign in interactively. They have **14 days** to complete registration. During that window they can skip registration when MFA isn't otherwise required, but when the 14 days end they must register before the sign-in can complete.
 
 Registration only gives users something to use for MFA. To actually **require** MFA at sign-in, pair this policy with a Conditional Access policy.
-
----
