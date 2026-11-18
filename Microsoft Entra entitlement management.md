@@ -2,18 +2,9 @@
 
 # Microsoft Entra Entitlement Management: Catalog Lab
 
-Create and manage a **catalog of resources** in Microsoft Entra entitlement management, done two ways:
+Create and manage a **catalog of resources** in Microsoft Entra entitlement management
 
-1. **Entra admin center**: walked through end to end in a lab tenant, with screenshots ([docs/portal-walkthrough.md](docs/portal-walkthrough.md)).
-2. **Microsoft Graph PowerShell**: the same lifecycle as repeatable, idempotent scripts with `-WhatIf` support ([scripts/](scripts/)).
-
-A catalog is a container for resources (groups, enterprise applications, SharePoint sites) and the access packages built from them. Delegating a catalog lets a resource owner manage their own access packages without holding a tenant-wide role.
-
-![Catalog after create, add resources, add owner, and edit](docs/screenshots/09-catalog-edited.png)
-
-## What was done
-
-Performed in the Entra admin center on 2026-11-17 (lab tenant, no access packages yet):
+1
 
 | Step | Result |
 |---|---|
