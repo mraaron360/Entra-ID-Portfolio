@@ -39,9 +39,9 @@ Every screenshot has **red numbered badges**. The number in the step text matche
 2. Sign in with an account that holds the Security Administrator or Global Administrator role.
 3. On the **Home** page, confirm **(1)** the role shown under your name, here **Global Administrator**. The search box **(2)** is what you will use in the next step.
 
-![Step 1 – Entra admin center home](images/01-entra-admin-center-home.png)
+![Step 1 – Entra admin center home]
 
----
+
 
 ## Step 2 – Locate the policy
 
