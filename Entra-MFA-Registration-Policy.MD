@@ -41,6 +41,7 @@ Every screenshot has **red numbered badges**. The number in the step text matche
 
 ![Step 1 – Entra admin center home]
 
+<img width="1427" height="540" alt="Role-page" src="https://github.com/user-attachments/assets/c82c3512-2d4e-443b-93b5-ae93bd74244a" />
 
 
 ## Step 2 – Locate the policy
