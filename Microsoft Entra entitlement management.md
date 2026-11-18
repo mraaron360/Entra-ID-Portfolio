@@ -4,7 +4,7 @@
 
 Create and manage a **catalog of resources** in Microsoft Entra entitlement management
 
-1
+
 
 | Step | Result |
 |---|---|
