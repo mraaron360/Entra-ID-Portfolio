@@ -1,3 +1,5 @@
+
+
 # Microsoft Entra Entitlement Management: Catalog Lab
 
 Create and manage a **catalog of resources** in Microsoft Entra entitlement management, done two ways:
@@ -149,17 +151,15 @@ Get-ChildItem ./scripts -Filter *.ps1 | ForEach-Object {
 ./scripts/Remove-LabCatalog.ps1 -CatalogName 'IAM-Lab-Catalog'
 ```
 
-Deleting a catalog removes its resource registrations and catalog-scoped role assignments. The underlying groups and applications are not modified.
+## Screenshots
 
-## References
+<img width="1352" height="693" alt="09-catalog-edited" src="https://github.com/user-attachments/assets/fd1cc95d-3890-4d43-82e5-c392bcd94826" />
+<img width="1352" height="693" alt="08-catalog-owner-added" src="https://github.com/user-attachments/assets/1a18d648-75fe-4875-bb9d-789c4d7045d6" />
+<img width="1352" height="693" alt="07-resources-added" src="https://github.com/user-attachments/assets/624f04de-b4e1-4136-8ead-71ce7b666fae" />
+<img width="1352" height="693" alt="06-select-groups" src="https://github.com/user-attachments/assets/1feb2fda-32f9-4967-9050-acbdeeafa227" />
+<img width="1352" height="693" alt="05-add-resources-pane" src="https://github.com/user-attachments/assets/20450e18-b590-4b32-980e-acb07b58ecb7" />
+<img width="1352" height="693" alt="04-catalog-overview-empty" src="https://github.com/user-attachments/assets/c4892ded-d626-4dac-b3ef-b211d8a6c602" />
+<img width="1352" height="693" alt="03-catalog-created" src="https://github.com/user-attachments/assets/1aea57ab-e97a-45ab-a789-a03973b31cbb" />
+<img width="1352" height="693" alt="02-new-catalog-form" src="https://github.com/user-attachments/assets/cde32599-c1b1-46bd-a730-6a7979fe9f10" />
+<img width="1352" height="693" alt="01-catalogs-list-before" src="https://github.com/user-attachments/assets/6af70f1d-8ee6-4f53-b663-e8bc0c4b3f7b" />
 
-- [Create and manage a catalog of resources in entitlement management](https://learn.microsoft.com/en-us/entra/id-governance/entitlement-management-catalog-create)
-- [Delegation and roles in entitlement management](https://learn.microsoft.com/en-us/entra/id-governance/entitlement-management-delegate)
-- [Create accessPackageCatalog (Graph v1.0)](https://learn.microsoft.com/en-us/graph/api/entitlementmanagement-post-catalogs?view=graph-rest-1.0)
-- [Create accessPackageResourceRequest (Graph v1.0)](https://learn.microsoft.com/en-us/graph/api/entitlementmanagement-post-resourcerequests?view=graph-rest-1.0)
-- [Tutorial: Manage access to resources using Microsoft Graph PowerShell](https://learn.microsoft.com/powershell/microsoftgraph/tutorial-entitlement-management)
-- [SC-300 Lab 22: Create and manage a catalog of resources](https://microsoftlearning.github.io/SC-300-Identity-and-Access-Administrator/Instructions/Labs/Lab_22_CreateAndManageACatalogOfResourcesInAADEntitlementManagement.html)
-
-## License
-
-[MIT](LICENSE)
